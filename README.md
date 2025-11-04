@@ -17,8 +17,8 @@ Designed for structural health monitoring, surface flaw localization, and automa
 Images include crack samples under different lighting, material textures, and orientations.  
 Bounding boxes are provided in YOLO format.  
 If the dataset is public, add the link here:
-- Dataset Source: `Roboflow / Custom Annotated Dataset`
-- Image count: `11,046 (with augmentation)`
+- Dataset Source: [Roboflow / Custom Annotated Dataset](https://app.roboflow.com/computer-vision-yqyos/merged-cracks/3)
+- Image count: 11,046 (with augmentation)
 
 ---
 
