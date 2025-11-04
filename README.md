@@ -28,6 +28,9 @@ If the dataset is public, add the link here:
 - KD + pseudo-label pipeline
 - Loss terms: Regression, Class, DFL, KD-weighted terms
 
+## Dataset
+https://app.roboflow.com/computer-vision-yqyos/merged-cracks/
+
 Student gains:
 - Lower computational cost
 - Faster inference
