@@ -16,7 +16,6 @@ Designed for structural health monitoring, surface flaw localization, and automa
 ## 📁 Dataset
 Images include crack samples under different lighting, material textures, and orientations.  
 Bounding boxes are provided in YOLO format.  
-If the dataset is public, add the link here:
 - Dataset Source: [Roboflow / Custom Annotated Dataset](https://app.roboflow.com/computer-vision-yqyos/merged-cracks/3)
 - Image count: 11,046 (with augmentation)
 
@@ -27,9 +26,6 @@ If the dataset is public, add the link here:
 - Anchor-free detection
 - KD + pseudo-label pipeline
 - Loss terms: Regression, Class, DFL, KD-weighted terms
-
-## Dataset
-https://app.roboflow.com/computer-vision-yqyos/merged-cracks/
 
 Student gains:
 - Lower computational cost
