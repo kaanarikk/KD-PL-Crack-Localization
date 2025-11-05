@@ -1,4 +1,4 @@
-# Knowledge-Distilled YOLOv11 for Structural Crack Detection
+# Knowledge-Distilled YOLOv11 for Structural Crack Detection: Lightweight Surface Flaw Localization with Pseudo-Label Guidance
 Lightweight and real-time crack detection model using a YOLOv11 Teacher–Student framework with Pseudo-Labeling and Knowledge Distillation.  
 Designed for structural health monitoring, surface flaw localization, and automated inspection in construction environments.
 
